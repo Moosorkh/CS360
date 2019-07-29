@@ -1,7 +1,6 @@
 #include <stdio.h>
 //Declaring string.h directive to use the strcmp fucntion
 #include <string.h>
-//Mahdi Ahmadizar
 #define s 5
 #define c 20
 
